@@ -5,7 +5,7 @@
 A Puppeteer script that automatically downloads LRC lyrics files from [RCLyricsBand.com](https://rclyricsband.com).
 
 ## DEMO
-*Includes Demo video:* [Demo Preview](https://github.com/Ruhani05/AngrierBirdsGame/issues/1#issue-2941255248) 
+*Includes Demo video:* [Demo Preview](https://github.com/Ruhani05/AngrierBirdsGame/issues/1#issue-2941255248) (available in above repo)
 
 ## Features
 
@@ -27,7 +27,7 @@ A Puppeteer script that automatically downloads LRC lyrics files from [RCLyricsB
 
 ```bash
 npm install puppeteer
-node main.js
+node .\main_allalpha_test2.ts
 ```
 
 ## Configuration
