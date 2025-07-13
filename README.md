@@ -13,6 +13,7 @@ A Puppeteer script that automatically downloads LRC lyrics files from [RCLyricsB
 - **Batch Downloads**: Downloads all songs for each artist
 - **Error Resilient**: Handles special characters and recovers from errors
 - **Configurable**: Set download limits for testing
+- Can run headless as well, make parameter true/false as per need.
 
 ## How It Works
 
